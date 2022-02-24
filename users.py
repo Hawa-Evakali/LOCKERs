@@ -14,7 +14,7 @@ class Users:
         self.username = username
         self.login_password = login_password
     
-    def add_user(self):
+    defadd_user(self):
         '''
         add user details method saves user object into users list
         '''
