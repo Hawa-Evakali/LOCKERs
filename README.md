@@ -44,4 +44,4 @@ Should you be unable to access the website, have any recommendations and/or ques
 
 
 
-Copyright (c) 2020 [ Hawa Evakali ](https://github.com/Hawa-Evakali/Password-Locker.git)  
+Copyright (c) 2020 [ Hawa Evakali ]  
