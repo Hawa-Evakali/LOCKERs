@@ -10,7 +10,7 @@ class Users:
         Args: 
         username: New username
         login_password: New user password
-        '''
+        ''
         self.username = username
         self.login_password = login_password
     
