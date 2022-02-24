@@ -17,7 +17,7 @@ Users can also delete an active account.
 
 
 ## Run/setup instructions
-- Clone this repo to your computer.
+- Clone this repository to your computer.
 - Open your terminal and navigate to the project directory.
 - Run $ python3.8 run.py.
 - Follow navigation directions provided.
