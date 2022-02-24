@@ -1,5 +1,5 @@
 import unittest # Importing the unittest module
-from users import Users
+from users import User
 
 class TestUsers(unittest.TestCase):
     '''

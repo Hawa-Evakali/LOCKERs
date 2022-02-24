@@ -32,7 +32,7 @@ class Credentials:
         '''
         Credentials.credentials_list.remove(self)
 
-    @classmetho
+    @classmethod
     def display_credentials(cls):
         '''
         method that returns a list of all credentials
