@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.6
 from users import Users
-from credentials import Credentials
+from credentials import Credential
 
 def create_user(username, login_password):
     '''
