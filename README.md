@@ -1,5 +1,5 @@
 # Password Locker
-#### A python CLI application that allows users to save application credentials such as their username and passwords, 22/02/2022.
+#### A python CLI application that allows users to save application credentials such as their username and passwords, 19/02/2022.
 #### By Hawa Evakali
 
 ## Description
