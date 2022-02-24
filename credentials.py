@@ -1,5 +1,5 @@
 import random
-import strin
+import string
 
 class Credentials:
     '''
@@ -32,7 +32,7 @@ class Credentials:
         '''
         Credentials.credentials_list.remove(self)
 
-    @classmethod
+    @classmetho
     def display_credentials(cls):
         '''
         method that returns a list of all credentials
